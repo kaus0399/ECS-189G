@@ -1,0 +1,8 @@
+You will find the required my.out file and my.hmm file in this folder. I have deleted any uncessary files which were not required for submission.
+This folder also contains the word document report and PDF report for my solutions. 
+I referred to the class piazza for a lot of suggestions and watched youtube vidoes for POS tagging and HMM.
+I also referred to one Quora link which is referenced in the pdf and word file. I wanted to implement a trigram model but could not create a modified 
+viterbi file in python for post processing. So in the end I decided to go with additive smoothing. If you have any questions please email me at 
+kdesh@ucdavis.edu
+
+PLEASE REFER TO THE WORD DOCUMENT FOR ANSWERS. THE PDF IS SOMETIMES NOT FORMATTED CORRECTLY
